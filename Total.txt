@@ -1,0 +1,5 @@
+Al mergearse las dos ramas(rama 1 y rama2) a la master, tengo lo siguiente:
+-el archivo de master(documento master.txt)
+-el archivo de rama1 (rama1.txt)
+-el archivo de rama2 (documento2.txt)
+-Este archivo (total.txt)
