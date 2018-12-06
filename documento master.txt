@@ -1,0 +1,2 @@
+este es el documento 1
+renombro el archivo a documento master
