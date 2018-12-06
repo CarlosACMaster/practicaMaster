@@ -1,0 +1,2 @@
+He borrado el documento1 de la rama master
+y he creado el documento 2
