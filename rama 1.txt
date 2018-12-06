@@ -1,1 +1,2 @@
 HE borrado el documento1 de la rama master y he creado este en la rama1
+Cambios en la rama no fusionada
